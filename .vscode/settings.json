@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "easypio.h": "c",
+        "stdbool.h": "c"
+    }
+}
