@@ -1,12 +1,46 @@
-# Luces Led
-Repositorio de un proyecto de mi carrera realizado en quinto semestre.
+# LED Lights Sequences
 
-Universidad: Universidad Católica de Córdoba
+This repository contains a project developed during the **fifth semester** of the **Systems Engineering** program at the **Catholic University of Córdoba**, as part of the course **Computer Architecture I** (Plan 2016).
 
-Carrera: Ingeniería de Sistemas (Plan 2016)
+👨‍🏫 **Professor**: Luis Toledo
 
-Materia: Arquitectura de Computadoras 1.
+---
 
-Profesor: Toledo, Luis.
+## 🧠 Project Description
 
-Condiciones: Es un proyecto que hace 4 secuencias distintas de juegos de luces, 2 están planteadas en C y otras 2 están planteadas en Assembly
+This project implements **four different LED light sequence patterns**, developed for embedded systems.
+
+- **Two of the sequences were programmed in C**
+- **Two were implemented in Assembly**
+
+The purpose of the project was to gain hands-on experience working with low-level programming and understand how different programming paradigms interact directly with hardware components.
+
+Although no screenshots are included, the project involved controlling real LED hardware to execute light patterns with varying timing and behavior.
+
+---
+
+## 💡 Key Learning Outcome
+
+This project was especially valuable in helping me understand the **critical role of hardware** in software development. Writing code that interfaces directly with physical components taught me how low-level design decisions can affect performance, precision, and the overall behavior of a system.
+
+It was a foundational step in bridging the gap between **software logic** and **hardware behavior** — a crucial skill for anyone working in systems engineering.
+
+---
+
+## 🛠️ Technologies Used
+
+- C Programming  
+- Assembly Language  
+- Microcontroller Programming  
+- LED Control Logic
+
+---
+
+## 📚 Academic Context
+
+- 📍 **University**: Catholic University of Córdoba  
+- 🎓 **Degree**: Systems Engineering (2016 curriculum)  
+- 📘 **Course**: Computer Architecture I  
+- 📅 **Semester**: Fifth
+
+---
